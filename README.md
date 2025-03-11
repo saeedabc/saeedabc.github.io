@@ -1,12 +1,11 @@
-# Saeed Abbasi
 
-🚀 **Machine Learning Engineer | Researcher**  
+## 👋 About Me
+🚀 **Machine Learning Engineer | AI Researcher**  
 📍 Toronto, Canada  
 📧 [saeed.abbc@gmail.com](mailto:saeed.abbc@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/saeedabc) | [GitHub](https://github.com/saeedabc)  
 
-## 👋 About Me
-I'm a Machine Learning Engineer with a strong background in deep learning, NLP, and generative AI. My expertise includes LLM fine-tuning, agentic workflows, and scalable ML pipelines. With a software development foundation, I build AI-driven solutions that are both innovative and production-ready.
+> I'm a Machine Learning Engineer with a strong background in deep learning, NLP, and generative AI. My expertise includes LLM fine-tuning, agentic workflows, and scalable ML pipelines. With a software development foundation, I build AI-driven solutions that are both innovative and production-ready.
 
 ---
 
@@ -17,6 +16,8 @@ I'm a Machine Learning Engineer with a strong background in deep learning, NLP, 
 - **Data Science**: Pandas, PySpark, Data modeling, A/B testing, Tableau, Power BI  
 - **Software & Tools**: FastAPI, Flask, Django, Streamlit, Docker, AWS, Azure, Kubernetes, Git, Bash Scripting  
 - **CS Fundamentals**: Data Structures, Algorithms, Distributed Computing, Design Patterns  
+
+---
 
 ## 💼 Experience
 ### **Machine Learning Researcher** 
@@ -34,6 +35,8 @@ I'm a Machine Learning Engineer with a strong background in deep learning, NLP, 
 - Developed **graph-based analytics systems** with Flask/Django and optimized SQL/Neo4j queries.
 - Implemented **large-scale graph algorithms** (centrality, community detection) to enhance big data processing.
 
+---
+
 ## 🎓 Education
 ### **MSc in Computer Science** 
 📍 York University (2021 – 2024)
@@ -41,9 +44,13 @@ I'm a Machine Learning Engineer with a strong background in deep learning, NLP, 
 ### **BSc in Computer Engineering** 
 📍 University of Tehran (2016 – 2021)
 
+---
+
 ## 📜 Publications
 ### [WeSWin](https://github.com/saeedabc/WeSWin) 
 - Saeed Abbasi, Aijun An, Heidar Davoudi, Ron Di Carlantonio, and Gary Farmaner. 2025. [Neural Document Segmentation Using Weighted Sliding Windows with Transformer Encoders](https://aclanthology.org/2025.coling-industry.67/). *In Proceedings of the 31st International Conference on Computational Linguistics: Industry Track*, pages 807–816, Abu Dhabi, UAE. Association for Computational Linguistics.
+
+---
 
 ## 🔥 Projects
 ### [MapEcho](https://mapecho.com)
@@ -55,6 +62,8 @@ I'm a Machine Learning Engineer with a strong background in deep learning, NLP, 
 
 ### [Insurance Claim Prediction](https://github.com/saeedabc/insurance-claim-prediction)
 - Developed an **ML pipeline** for **vehicle insurance claim prediction** using **Neural Networks & XGBoost**.
+
+---
 
 ## 📫 Get in Touch
 I'm always excited to collaborate on cutting-edge AI projects. Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/saeedabc) or [GitHub](https://github.com/saeedabc)!
