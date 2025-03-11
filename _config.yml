@@ -1,5 +1,6 @@
-theme: jekyll-theme-minimal
-title: Saeed Abbasi's homepage
-# description: Bookmark this to keep an eye on my project updates!
+title: Saeed Abbasi
 logo: /assets/img/headshot.png
-show_downloads: false
+description: Welcome to my portfolio!
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-minimal
