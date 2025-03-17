@@ -1,21 +1,20 @@
 
 ## 👋 About Me
-🚀 **Machine Learning Engineer | AI Researcher**  
+🚀 **Machine Learning Scientist**  
 📍 Toronto, Canada  
 📧 [saeed.abbc@gmail.com](mailto:saeed.abbc@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/saeedabc) | [GitHub](https://github.com/saeedabc)  
 
-> I'm a Machine Learning Engineer with a strong background in deep learning, NLP, and generative AI. My expertise includes LLM fine-tuning, agentic workflows, and scalable ML pipelines. With a software development foundation, I build AI-driven solutions that are both innovative and production-ready.
+> I'm a Machine Learning Scientist specializing in Generative AI, Deep Learning, and NLP, with expertise in Retrieval-Augmented Generation, Agentic Workflows, and LLM Fine-tuning. Combining a strong software engineering foundation with AI expertise, I develop scalable, production-ready AI solutions that drive innovation.
 
 ---
 
 ## 🛠️ Skills
-- **Languages**: Python, JavaScript, C++, Java, R, SQL  
-- **ML & AI**: GenAI, Agentic Workflows, RAG, LLM Fine-tuning, Deep Learning, NLP, Computer Vision  
-- **ML Frameworks**: PyTorch, TensorFlow, Scikit-learn, LangChain, HuggingFace, LlamaIndex, MLflow  
-- **Data Science**: Pandas, PySpark, Data modeling, A/B testing, Tableau, Power BI  
+- **Programming Languages**: Python, SQL, R, Java, C++, JavaScript  
+- **ML & AI**: Generative AI, Agentic Workflows, RAG, LLM Fine-tuning, Prompt Engineering, Transformers, Deep Learning, NLP, Statistical Modeling  
+- **ML Frameworks**: PyTorch, TensorFlow, LangChain, HuggingFace, LlamaIndex, MLflow, Scikit-learn, PySpark  
 - **Software & Tools**: FastAPI, Flask, Django, Streamlit, Docker, AWS, Azure, Kubernetes, Git, Bash Scripting  
-- **CS Fundamentals**: Data Structures, Algorithms, Distributed Computing, Design Patterns  
+- **CS Fundamentals**: Data Structures & Algorithms, Distributed/Parallel Computing, Object Oriented Design Patterns  
 
 ---
 
@@ -28,12 +27,12 @@
 ### **AI Software Developer** 
 📍 [iNAGO Inc.](https://www.inago.com) (May 2023 – Aug 2023) 
 - **Optimized RAG pipelines** for long-form QA, improving performance by **5%** over prompt-tuned LLM baselines.
-- Built and deployed **scalable REST APIs** using **FastAPI, Docker, and Azure** for NLP model inference.
+- Built and deployed **scalable REST APIs** using **FastAPI and Azure**, enabling high-throughput inference for NLP models.
 
 ### **Back-end Software Developer** 
 📍 [University of Tehran Science & Technology Park](https://utstpark.ir/en) (Oct 2019 – Mar 2021) 
-- Developed **graph-based analytics systems** with Flask/Django and optimized SQL/Neo4j queries.
-- Implemented **large-scale graph algorithms** (centrality, community detection) to enhance big data processing.
+- Developed **real-time graph analysis services** using Flask/Django, optimizing performance with native SQL/Neo4j queries.
+- Optimized large-scale graph algorithms (centrality, community detection) to enhance big data processing efficiency.
 
 ---
 
